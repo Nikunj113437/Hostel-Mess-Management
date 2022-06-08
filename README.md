@@ -1,1 +1,1 @@
-# Hostel-Mess-Management
+Mess-Management-System
